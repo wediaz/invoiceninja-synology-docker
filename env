@@ -32,7 +32,7 @@ MAIL_USERNAME=your@email.com
 MAIL_PASSWORD=YouEmailPassword
 MAIL_ENCRYPTION=ssl
 MAIL_FROM_ADDRESS='your@email.com'
-MAIL_FROM_NAME='My Store Name'
+MAIL_FROM_NAME='Your Store Name'
 
 # MySQL
 MYSQL_ROOT_PASSWORD=ninjaAdm1nPassword
